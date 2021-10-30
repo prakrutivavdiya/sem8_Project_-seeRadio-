@@ -1,0 +1,15 @@
+
+.btnPageSize:hover{
+  color:black;
+  background-color: #e0e0e0;
+}
+.btnPageSize:focus,.btnPageSize:active{
+  background-color: dodgerblue;
+}
+.btnPageSize{
+  color:black;
+  background-color: white;
+  border: none;
+}
+
+
